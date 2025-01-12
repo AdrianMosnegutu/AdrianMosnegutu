@@ -1,5 +1,9 @@
 # Greetings! I am Adrian
 
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/adrian-mosnegutu/) &nbsp;
+[![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg)](https://www.facebook.com/adrian.mosnegutu.7739) &nbsp;
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/adrian_mosnegutu/)
+
 ## About me
 
 I am a second year student at [Babeș-Bolyai University](https://www.ubbcluj.ro/ro/) in Cluj-Napoca, Romania.
