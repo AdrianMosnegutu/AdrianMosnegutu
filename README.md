@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVsbTV5ZGM2NXMwaGRxdXM2YW9hZnh6eG5vcTR1YmY1ZGt3cWl2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" alt="Hacking" width="200" />
+</div>
+
 # Hi there, I'm Adrian! 👋
 
 I am a motivated and detail-oriented second-year **Computer Science** student, eager to apply theoretical knowledge to real-world projects. I'm passionate about contributing to dynamic teams and gaining hands-on experience in **software development** and **programming**.
