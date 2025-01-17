@@ -15,7 +15,7 @@ I am a motivated and detail-oriented second-year **Computer Science** student, e
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats.git)
 
-## 📞 Connect With Me
+## 📞 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-mosnegutu/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianmosnegutuioan@yahoo.com)
