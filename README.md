@@ -9,17 +9,16 @@ I am a motivated and detail-oriented second-year **Computer Science** student, e
 - 🏆 **Interests:** Software Engineering, Web Development  
 - 🎨 **Hobbies:** Reading, Traveling, Watching Movies, Playing Video Games  
 
-## 📞 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-mosnegutu/)
-[![Website](https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://adrianmosnegutu.github.io/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianmosnegutuioan@yahoo.com)
-
 ## 📊 GitHub Stats
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&show_icons=true&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats.git)
+
+## 📞 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-mosnegutu/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianmosnegutuioan@yahoo.com)
 
 ## 💬 Before You Leave
 
