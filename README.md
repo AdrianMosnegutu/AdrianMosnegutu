@@ -9,7 +9,7 @@ I am a motivated and detail-oriented second-year **Computer Science** student, e
 ## 🌟 About Me
 
 - 💻 **Languages:** Java, C++, C, JavaScript, Python  
-- 🌱 **Currently Learning:** Back-end development  
+- 🌱 **Currently Learning:** Back-End Development  
 - 🏆 **Interests:** Software Engineering, Web Development  
 - 🎨 **Hobbies:** Reading, Traveling, Watching Movies, Playing Video Games  
 
