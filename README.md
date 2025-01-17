@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVsbTV5ZGM2NXMwaGRxdXM2YW9hZnh6eG5vcTR1YmY1ZGt3cWl2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" alt="Hacking" width="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJwbjJxM3hvMXcwdnQxMGw4OWF0NnFybW9vMWMwbHRscmRpbG1tOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" alt="Programming" width="400" />
 </div>
 
 # Hi there, I'm Adrian! 👋
