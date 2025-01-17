@@ -19,12 +19,12 @@ I am a motivated and detail-oriented second-year **Computer Science** student, e
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats.git">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=catppuccin_mocha" alt="Adrian's GitHub Stats" width="500" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=catppuccin_mocha" alt="Adrian's GitHub Stats" width="450" />
   </a>
   &nbsp;
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&show_icons=true&layout=compact&theme=catppuccin_mocha" alt="Most Used Languages" width="380" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&show_icons=true&layout=compact&theme=catppuccin_mocha" alt="Most Used Languages" width="342" />
   </a>
 </div>
 
