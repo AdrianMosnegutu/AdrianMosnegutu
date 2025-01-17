@@ -1,15 +1,30 @@
-# Greetings! I am Adrian
+# Hi there, I'm Adrian! 👋
 
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/adrian-mosnegutu/) &nbsp;
-[![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg)](https://www.facebook.com/adrian.mosnegutu.7739) &nbsp;
-[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/adrian_mosnegutu/)
+I am a motivated and detail-oriented second-year Computer Science student eager to apply theoretical knowledge from coursework to real-world projects. I am keen to contribute to a dynamic team and gain hands-on experience in software development and programming.
 
-## About me
+## About Me
 
-I am a second year student at [Babeș-Bolyai University](https://www.ubbcluj.ro/ro/) in Cluj-Napoca, Romania.
+- 🎓 **Studying:** Computer Science
+- 💻 **Languages:** Java, C++, C, Javascript, Python
+- 🌱 **Learning:** Exploring full-development
 
-## Stats
+## Connect with Me
+
+- [LinkedIn]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/adrian-mosnegutu/))
+- [Personal Website](https://adrianmosnegutu.github.io/)
+- [Email](mailto:adrianmosnegutuioan@yahoo.com)
+
+## GitHub Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats.git)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&show_icons=true&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&show_icons=true&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+## Featured Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdrianMosnegutu&repo=Toy-Language-Interpreter&theme=catppuccin_mocha)](https://github.com/AdrianMosnegutu/Toy-Language-Interpreter)
+
+
+
+Feel free to reach out if you have any questions or want to collaborate on a project!
+
+Thanks for visiting my profile!
