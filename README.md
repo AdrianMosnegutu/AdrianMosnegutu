@@ -10,20 +10,24 @@ I am a motivated and detail-oriented second-year Computer Science student eager 
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/adrian-mosnegutu/))
-- [Personal Website](https://adrianmosnegutu.github.io/)
-- [Email](mailto:adrianmosnegutuioan@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-mosnegutu/) &nbsp;
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://adrianmosnegutu.github.io/) &nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianmosnegutuioan@yahoo.com)
 
 ## GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats.git)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&show_icons=true&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; align-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats.git">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=catppuccin_mocha" alt="My GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&show_icons=true&layout=donut&theme=catppuccin_mocha" alt="Most used languages" />
+  </a>
+</div>
 
 ## Featured Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdrianMosnegutu&repo=Toy-Language-Interpreter&theme=catppuccin_mocha)](https://github.com/AdrianMosnegutu/Toy-Language-Interpreter)
-
-
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
 
