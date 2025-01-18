@@ -5,6 +5,8 @@
   
   🎓 **Second-Year Computer Science Student**  
   💡 Driven by a passion for **Software Development**, **Programming**, and **Technology**  
+
+  <img src="https://komarev.com/ghpvc/?username=AdrianMosnegutu&style=for-the-badge&color=blue&abbreviated=true" alt="Profile views" height="30"/>
 </div>
 
 ### 🌟 **About Me**
