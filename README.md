@@ -26,8 +26,8 @@
 ### 📊 **GitHub Stats**
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Most Used Languages" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" height="175"/>
 </div>
 
 ### 📞 **Connect with Me**
