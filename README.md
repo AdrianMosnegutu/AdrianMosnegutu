@@ -47,6 +47,6 @@
 <div>
   I'm always down to collaborate on exciting projects or just chat about tech.  
   Feel free to reach out — let's build something awesome.  
-  <br/>
+  <br/><br/>
   Thanks for stopping by — have an amazing day! 😄  
 </div>
