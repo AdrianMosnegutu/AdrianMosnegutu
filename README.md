@@ -23,11 +23,14 @@
 - 🎨 **Beyond the Code:**  
   I enjoy <code>Reading</code>, <code>Traveling</code>, <code>Watching Movies</code>, and losing myself in immersive <code>Video Games</code>.
 
-### 📊 **GitHub Stats**
+### 📊 **Stats**
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Most Used Languages" height="175"/>
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" height="175"/>
+  <a href="https://leetcode.com/cheehwatang#gh-dark-mode-only" >
+    <img src="https://leetcard.jacoblin.cool/AdrianMosnegutu?border=1&radius=20&theme=catppuccinMocha&ext=heatmap#gh-dark-mode-only" alt="Leetcode Stats" />
+  </a>
 </div>
 
 ### 📞 **Connect with Me**
