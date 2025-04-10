@@ -50,3 +50,7 @@
   <br/>
   Thanks for stopping by — have an amazing day! 😄  
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AdrianMosnegutu/AdrianMosnegutu/output/github-snake.svg" alt="GitHub Snake" />
+</div>
