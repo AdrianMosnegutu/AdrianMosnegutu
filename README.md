@@ -32,7 +32,7 @@
 ### 📊 Stats
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(2, 400px); gap: 20px;">
+  <div style="display: grid; grid-template-columns: repeat(2, 450px); gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" height="175" />
     <img src="https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" height="175" />
     <img src="https://streak-stats.demolab.com?user=AdrianMosnegutu&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" height="175" />
@@ -42,30 +42,11 @@
 
 ---
 
-### 📞 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/adrian-mosnegutu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.instagram.com/adrian_mosnegutu/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.facebook.com/adrian.mosnegutu.7739" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
-  </a>
-  <a href="mailto:adrianmosnegutuioan@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-%236F1D8E.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-</div>
-
----
-
 ### 💬 Before You Go
 
-<div align="center">
+<div>
   I'm always down to collaborate on exciting projects or just chat about tech.  
   Feel free to reach out — let's build something awesome.  
-  <br/><br/>
+  <br/>
   Thanks for stopping by — have an amazing day! 😄  
 </div>
