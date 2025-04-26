@@ -16,7 +16,7 @@
 ### 🌟 About Me
 
 - 💻 **Languages & Tools**:  
-  Java · C++ · C · JavaScript · TypeScript · React · Next.js · Node.js · Python · Git · Docker · PostgreSQL
+  Java · C++ · C · JavaScript · TypeScript · React · Next.js · Node.js · Python · Git · Docker · PostgreSQL · Lua
 
 - 🌱 **Currently Exploring**:  
   Back-end development, RESTful APIs, and database design & optimization
