@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://media.tenor.com/e80yWgXySiUAAAAe/dr-house-housecat.png" alt="Literally Me" height=200 />
+  
   <h1>👋 Hi there, I'm <strong>Adrian</strong>!</h1>
   
   🎓 <strong>Second-Year Computer Science Student</strong>  
