@@ -5,8 +5,8 @@
   
   🎓 <strong>Second-Year Computer Science Student</strong>  
   💡 Passionate about <strong>Software Development</strong>, <strong>Artificial Intelligence</strong>, and <strong>Technology</strong>  
+  🧙‍♂️ <strong>Terminal Wizard</strong> — because **real OGs use the command line**, while posers click buttons  
 
-  <br>
   <img src="https://komarev.com/ghpvc/?username=AdrianMosnegutu&style=for-the-badge&color=blue&abbreviated=true" alt="Profile views" height="30"/>
 </div>
 
@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,lua,c,cpp,cs,html,css,js,ts" alt="Languages" />
   
   <h3>🛠️ Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,next,nodejs,qt" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,next,dotnet,nodejs,qt" alt="Frameworks & Libraries" />
   
   <h3>🔧 Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=neovim,linux,docker,postgres,git,github,visualstudio,vscode,postman,figma" alt="Tools & Platforms" />
@@ -30,5 +30,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" height="175" />
     <img src="https://leetcard.jacoblin.cool/AdrianMosnegutu?border=0&radius=5&theme=catppuccinMocha" alt="Leetcode Stats" height="175" />
   </div>
-
 </div>
