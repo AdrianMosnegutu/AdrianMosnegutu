@@ -33,8 +33,11 @@
 
 ---
 
+<details>
+
+<summary align="center"><h2>🎧 Listening To</h2></summary>
+
 <div align="center">
-  <h2>🎧 Listening To</h2>
   <a href="https://music-profile.rayriffy.com">
     <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001776.a9c4ba6d702a4bb0b0c0160e6060f4fa.1153" alt="Now Playing" />
   </a>
