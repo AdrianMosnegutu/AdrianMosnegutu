@@ -26,7 +26,7 @@
   </div>
 
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=AdrianMosnegutu&theme=nord&no-frame=true&margin-w=5&margin-h=15&title=-Trophies,-Followers,-Reviews" 
+    src="https://github-profile-trophy.vercel.app/?username=AdrianMosnegutu&column=4&theme=nord&no-frame=true&margin-w=5&margin-h=5&title=-Trophies,-Followers,-Reviews" 
     alt="GitHub Trophies" 
   />
 </div>
