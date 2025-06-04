@@ -1,9 +1,8 @@
 <div align="center">
   <h1>👋 Hey, I'm <strong>Adrian</strong>!</h1>
 
-  🎓 <strong>Second-Year Computer Science Student</strong><br />
-  💡 Passionate about <strong>Software Development</strong>, <strong>Artificial Intelligence</strong>, and <strong>Technology</strong><br />
-  🧙‍♂️ <strong>Terminal Wizard</strong> — because <strong>real OGs use the command line</strong>, while posers click buttons
+  🎓 Computer Science Student focused on Software Development & AI<br />
+  🧙‍♂️ Command line wizard building cool projects
 
   <img src="https://komarev.com/ghpvc/?username=AdrianMosnegutu&style=for-the-badge&color=blue&abbreviated=true" alt="Profile views" height="30"/>
 </div>
