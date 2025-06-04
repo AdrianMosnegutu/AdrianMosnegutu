@@ -18,7 +18,7 @@
 <div align="center">
 
 <h3>📌 Languages</h3>
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,cs,java,cpp,c,python,lua,php" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,cs,cpp,c,java,python,lua,php" alt="Languages" />
 
 <h3>🧩 Frameworks & Libraries</h3>
 <img src="https://skillicons.dev/icons?i=react,next,redux,nodejs,dotnet,qt,tailwind,vite" alt="Frameworks & Libraries" />
