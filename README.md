@@ -49,6 +49,6 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="175" />
     <img src="https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="175" />
-    <img src="https://leetcard.jacoblin.cool/AdrianMosnegutu?border=0&radius=5&theme=nord&ext=activity" alt="Leetcode Stats" />
+    <img src="https://leetcard.jacoblin.cool/AdrianMosnegutu?border=0&radius=5&theme=nord" alt="Leetcode Stats" />
   </div>
 </div>
