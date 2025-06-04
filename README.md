@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <h2>📊 GitHub & LeetCode Stats</h2>
+  <h2>📊 GitHub Stats & Trophies</h2>
   <div style="display: flex; justify-content: left; gap: 30px; flex-wrap: wrap;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&layout=compact&theme=nord&hide_border=true" 
