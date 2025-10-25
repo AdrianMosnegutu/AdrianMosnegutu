@@ -28,4 +28,6 @@
     src="https://github-profile-trophy.vercel.app/?username=AdrianMosnegutu&column=4&theme=nord&no-frame=true&margin-w=5&margin-h=5&title=-Trophies,-Followers,-Reviews" 
     alt="GitHub Trophies" 
   />
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AdrianMosnegutu&theme=nord&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=225" alt="GitHub Streak" /></a>
 </div>
