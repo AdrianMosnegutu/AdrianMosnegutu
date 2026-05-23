@@ -11,7 +11,8 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianMosnegutu&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMosnegutu&theme=catppuccin_mocha&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=github_dark)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AdrianMosnegutu&theme=github_dark)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianMosnegutu&layout=compact&theme=github_dark)
 </div>
