@@ -6,7 +6,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=AdrianMosnegutu&style=for-the-badge&color=blue&abbreviated=true" alt="Profile Views" height="30"/>
 </div>
-
+<!--
 ---
 
 <div align="center">
@@ -16,3 +16,4 @@
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AdrianMosnegutu&theme=github_dark)
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianMosnegutu&layout=compact&theme=github_dark)
 </div>
+-->
