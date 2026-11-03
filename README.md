@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<h2>GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <img height="165"
      src="https://github-stats-extended.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=gotham&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=86400"
