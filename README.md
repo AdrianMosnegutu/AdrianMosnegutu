@@ -6,14 +6,27 @@
 
   <img src="https://komarev.com/ghpvc/?username=AdrianMosnegutu&style=for-the-badge&color=blue&abbreviated=true" alt="Profile Views" height="30"/>
 </div>
-<!--
+
 ---
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=github_dark)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AdrianMosnegutu&theme=github_dark)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianMosnegutu&layout=compact&theme=github_dark)
-</div>
+
+<h2>GitHub Stats</h2>
+
+<img height="165"
+     src="https://github-stats-extended.vercel.app/api?username=AdrianMosnegutu&show_icons=true&theme=gotham&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=86400"
+     alt="GitHub stats" />
+<img height="165"
+     src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdrianMosnegutu&layout=compact&theme=gotham&hide_border=true&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=86400"
+     alt="Most used languages" />
+
+<img height="165"
+     src="https://streak-stats.demolab.com?user=AdrianMosnegutu&theme=gotham&hide_border=true"
+     alt="GitHub streak stats" />
+
+<!--
+<img width="95%"
+     src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianMosnegutu&theme=tokyo-night&hide_border=true&area=true"
+     alt="Contribution activity graph" />
 -->
+</div>
